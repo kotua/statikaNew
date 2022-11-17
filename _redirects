@@ -1,3 +1,4 @@
+/(.*) /robots_%{HTTP_HOST}.txt
 /trans/tmg-25 /page30395164.html
 /trans/tm-25 /page30396016.html
 /parts/rlndz-400 /page30396815.html
