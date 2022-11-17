@@ -1,0 +1,174 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page30366978.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^trans/tmg-25$ page30395164.html [NC]
+RewriteRule ^trans/tmg-25/$ page30395164.html [NC]
+
+RewriteRule ^trans/tm-25$ page30396016.html [NC]
+RewriteRule ^trans/tm-25/$ page30396016.html [NC]
+
+RewriteRule ^parts/rlndz-400$ page30396815.html [NC]
+RewriteRule ^parts/rlndz-400/$ page30396815.html [NC]
+
+RewriteRule ^ktp/ktp-1k$ page30392015.html [NC]
+RewriteRule ^ktp/ktp-1k/$ page30392015.html [NC]
+
+RewriteRule ^parts/rlndz-630$ page30396949.html [NC]
+RewriteRule ^parts/rlndz-630/$ page30396949.html [NC]
+
+RewriteRule ^ktp$ page30389134.html [NC]
+RewriteRule ^ktp/$ page30389134.html [NC]
+
+RewriteRule ^trans/tmg-40$ page30395352.html [NC]
+RewriteRule ^trans/tmg-40/$ page30395352.html [NC]
+
+RewriteRule ^trans/tm-40$ page30396155.html [NC]
+RewriteRule ^trans/tm-40/$ page30396155.html [NC]
+
+RewriteRule ^trans/tmg-63$ page30395701.html [NC]
+RewriteRule ^trans/tmg-63/$ page30395701.html [NC]
+
+RewriteRule ^trans/tm-63$ page30396213.html [NC]
+RewriteRule ^trans/tm-63/$ page30396213.html [NC]
+
+RewriteRule ^parts$ page30396594.html [NC]
+RewriteRule ^parts/$ page30396594.html [NC]
+
+RewriteRule ^parts/opn-10$ page31113933.html [NC]
+RewriteRule ^parts/opn-10/$ page31113933.html [NC]
+
+RewriteRule ^trans/tm-100$ page30396237.html [NC]
+RewriteRule ^trans/tm-100/$ page30396237.html [NC]
+
+RewriteRule ^trans/tmg-100$ page30395733.html [NC]
+RewriteRule ^trans/tmg-100/$ page30395733.html [NC]
+
+RewriteRule ^trans$ page31286142.html [NC]
+RewriteRule ^trans/$ page31286142.html [NC]
+
+RewriteRule ^parts/rvo-10$ page31117017.html [NC]
+RewriteRule ^parts/rvo-10/$ page31117017.html [NC]
+
+RewriteRule ^trans/tm$ page30394707.html [NC]
+RewriteRule ^trans/tm/$ page30394707.html [NC]
+
+RewriteRule ^trans/tmg-160$ page30395764.html [NC]
+RewriteRule ^trans/tmg-160/$ page30395764.html [NC]
+
+RewriteRule ^trans/tm-160$ page30396342.html [NC]
+RewriteRule ^trans/tm-160/$ page30396342.html [NC]
+
+RewriteRule ^parts/rvn-05$ page31117261.html [NC]
+RewriteRule ^parts/rvn-05/$ page31117261.html [NC]
+
+RewriteRule ^ktp/ktp-1v$ page30389296.html [NC]
+RewriteRule ^ktp/ktp-1v/$ page30389296.html [NC]
+
+RewriteRule ^trans/tmg-250$ page30395807.html [NC]
+RewriteRule ^trans/tmg-250/$ page30395807.html [NC]
+
+RewriteRule ^trans/tmg$ page31287731.html [NC]
+RewriteRule ^trans/tmg/$ page31287731.html [NC]
+
+RewriteRule ^trans/tm-250$ page30396353.html [NC]
+RewriteRule ^trans/tm-250/$ page30396353.html [NC]
+
+RewriteRule ^parts/opn-038$ page31118326.html [NC]
+RewriteRule ^parts/opn-038/$ page31118326.html [NC]
+
+RewriteRule ^parts/aluminum-bars$ page31118450.html [NC]
+RewriteRule ^parts/aluminum-bars/$ page31118450.html [NC]
+
+RewriteRule ^ktp/ktp-2k$ page30392244.html [NC]
+RewriteRule ^ktp/ktp-2k/$ page30392244.html [NC]
+
+RewriteRule ^trans/tmg-400$ page30395844.html [NC]
+RewriteRule ^trans/tmg-400/$ page30395844.html [NC]
+
+RewriteRule ^trans/tm-400$ page30396367.html [NC]
+RewriteRule ^trans/tm-400/$ page30396367.html [NC]
+
+RewriteRule ^trans/tsl$ page31287761.html [NC]
+RewriteRule ^trans/tsl/$ page31287761.html [NC]
+
+RewriteRule ^ktp/ktpmm$ page30393353.html [NC]
+RewriteRule ^ktp/ktpmm/$ page30393353.html [NC]
+
+RewriteRule ^parts/ntmi-10$ page31118551.html [NC]
+RewriteRule ^parts/ntmi-10/$ page31118551.html [NC]
+
+RewriteRule ^trans/tmg-630$ page30395868.html [NC]
+RewriteRule ^trans/tmg-630/$ page30395868.html [NC]
+
+RewriteRule ^trans/tm-630$ page30396394.html [NC]
+RewriteRule ^trans/tm-630/$ page30396394.html [NC]
+
+RewriteRule ^trans/tm-1000$ page30396432.html [NC]
+RewriteRule ^trans/tm-1000/$ page30396432.html [NC]
+
+RewriteRule ^trans/tmg-1000$ page30395940.html [NC]
+RewriteRule ^trans/tmg-1000/$ page30395940.html [NC]
+
+RewriteRule ^parts/znol-10$ page31262372.html [NC]
+RewriteRule ^parts/znol-10/$ page31262372.html [NC]
+
+RewriteRule ^ktp/2ktpmm$ page30393524.html [NC]
+RewriteRule ^ktp/2ktpmm/$ page30393524.html [NC]
+
+RewriteRule ^ktp/2ktp-2k$ page30393649.html [NC]
+RewriteRule ^ktp/2ktp-2k/$ page30393649.html [NC]
+
+RewriteRule ^trans/tm-1250$ page30396465.html [NC]
+RewriteRule ^trans/tm-1250/$ page30396465.html [NC]
+
+RewriteRule ^trans/tmg-1250$ page30395960.html [NC]
+RewriteRule ^trans/tmg-1250/$ page30395960.html [NC]
+
+RewriteRule ^parts/ols-10$ page31262713.html [NC]
+RewriteRule ^parts/ols-10/$ page31262713.html [NC]
+
+RewriteRule ^trans/tm-1600$ page30396485.html [NC]
+RewriteRule ^trans/tm-1600/$ page30396485.html [NC]
+
+RewriteRule ^trans/tmg-1600$ page30395987.html [NC]
+RewriteRule ^trans/tmg-1600/$ page30395987.html [NC]
+
+RewriteRule ^trans/tsl-100$ page31801399.html [NC]
+RewriteRule ^trans/tsl-100/$ page31801399.html [NC]
+
+RewriteRule ^trans/tsl-160$ page31801830.html [NC]
+RewriteRule ^trans/tsl-160/$ page31801830.html [NC]
+
+RewriteRule ^trans/tsl-250$ page31801874.html [NC]
+RewriteRule ^trans/tsl-250/$ page31801874.html [NC]
+
+RewriteRule ^trans/tsl-400$ page31801880.html [NC]
+RewriteRule ^trans/tsl-400/$ page31801880.html [NC]
+
+RewriteRule ^trans/tsl-630$ page31801885.html [NC]
+RewriteRule ^trans/tsl-630/$ page31801885.html [NC]
+
+RewriteRule ^trans/tsl-1000$ page31801887.html [NC]
+RewriteRule ^trans/tsl-1000/$ page31801887.html [NC]
+
+RewriteRule ^trans/tsl-1250$ page31801889.html [NC]
+RewriteRule ^trans/tsl-1250/$ page31801889.html [NC]
+
+RewriteRule ^trans/tsl-1600$ page31801892.html [NC]
+RewriteRule ^trans/tsl-1600/$ page31801892.html [NC]
+
+RewriteRule ^trans/tsl-2500$ page31801898.html [NC]
+RewriteRule ^trans/tsl-2500/$ page31801898.html [NC]
+
+RewriteRule ^generators$ page31823881.html [NC]
+RewriteRule ^generators/$ page31823881.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild6363-6564-4139-b061-613630663632/favicon_32x32.ico [R=302,L]
+
